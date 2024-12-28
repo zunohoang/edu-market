@@ -1,0 +1,6 @@
+[submodule "EduMarketClient"]
+	path = EduMarketClient
+	url = https://github.com/zunohoang/EduMarketClient.git
+[submodule "EduMarketServer"]
+	path = EduMarketServer
+	url = https://github.com/zunohoang/EduMarketServer.git
